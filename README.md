@@ -43,7 +43,3 @@ As imagens necessárias estão na pasta do desafio, que pode ser encontrada no r
 
 ---
 
-## 🚀 Vamos praticar?
-
-Abra seu editor, explore os arquivos, organize as imagens e divirta-se com esse quebra-cabeça!  
-Você vai aprender muito praticando! 💪🌍
