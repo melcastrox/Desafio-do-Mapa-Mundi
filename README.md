@@ -40,6 +40,5 @@ As imagens necessárias estão na pasta do desafio, que pode ser encontrada no r
 
 - Visual Studio Code (ou outro editor de sua preferência)
 - Navegador de internet para visualizar a página
-
 ---
 
